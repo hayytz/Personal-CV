@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -12,10 +12,11 @@
       "description": "Tengo diecisiete años y experiencia autodidacta como desarrollador. Actualmente conllevo una práctica constante en React, TailwindCSS y he testeado backend junto con bases de datos. Sea lo que fuere, soy programador JavaScript web y prontamente interesado en el servidor con este maravilloso lenguaje.\n\nSoy una persona asidua y parte de mi aspiración actual es formar parte de un equipo de software y crecer profesionalmente. Aspiro a la escalabilidad, lo cual hizo que programar no fuera un pasatiempo sino una pasión que disfruto. \n",
       "avatar": {
         "alt": "profile.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/16/d94fad07-61a8-4ee1-974f-801b081d7fcd_profile.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/18/8dd7321a-a36b-4f05-bcd2-b94f2a993e60_profile.jpg"
       },
       "location": {
-        "country": "Guatemala"
+        "country": "Guatemala",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -50,10 +51,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -82,5 +85,8 @@
         }
       }
     ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
   }
 }
