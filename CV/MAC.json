@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,8 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/10/69a832fa-f647-4307-8bbe-7cf585393a32_profile---copia.jpeg"
       },
       "location": {
-        "country": "Guatemala",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Guatemala"
       }
     },
     "relevantLinks": [
@@ -44,9 +43,6 @@
             "name": "JavaScript",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       }
     ]
@@ -54,12 +50,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -87,9 +81,36 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachillerato en Ciencias y Letras con Orientación a la Computación",
+        "startDate": "2021-01-01",
+        "finishDate": "2022-10-01",
+        "institution": {
+          "name": "Instituto Profesional de Técnicas Comerciales Especializadas IPTCE"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      }
     ]
-  },
-  "careerPreferences": {
-    "status": "searchingActively"
   }
 }
